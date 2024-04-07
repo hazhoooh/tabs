@@ -1,0 +1,8 @@
+{
+  "name": "tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "9e448785"
+}
